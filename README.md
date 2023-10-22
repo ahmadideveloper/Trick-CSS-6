@@ -3,7 +3,7 @@
 ![trcik-css6-2](https://github.com/ahmadideveloper/Trick-CSS-6/assets/141068188/d198d242-4769-4a4f-951d-b7c05a798b97)
 
 
-- 🔗 [Demo Project](https://ahmadideveloper.github.io/Trick-CSS-5/)
+- 🔗 [Demo Project](https://ahmadideveloper.github.io/Trick-CSS-6/)
 - 👨‍💻 developed by reza ahmadi
 - 📆 Created - 2023-10-22
 - 🤖 Technologies Used - Html , Css
