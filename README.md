@@ -1,6 +1,6 @@
 # Trick-CSS-6
 
-![trick-css6](https://github.com/ahmadideveloper/Trick-CSS-6/assets/141068188/aa0c0cec-56d1-48dc-ac67-982ac21cab61)
+![trcik-css6-2](https://github.com/ahmadideveloper/Trick-CSS-6/assets/141068188/d198d242-4769-4a4f-951d-b7c05a798b97)
 
 
 - 🔗 [Demo Project](https://ahmadideveloper.github.io/Trick-CSS-5/)
